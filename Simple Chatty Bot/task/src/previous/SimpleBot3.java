@@ -1,8 +1,8 @@
-package bot;
+package previous;
 
 import java.util.Scanner;
 
-public class SimpleBot {
+public class SimpleBot3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
